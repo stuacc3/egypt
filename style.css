@@ -1,0 +1,18 @@
+body{
+    background-color: peachpuff;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: slateblue;
+}
+nav ul{
+    background-color: sandybrown;
+    border-width: 2px;
+}
